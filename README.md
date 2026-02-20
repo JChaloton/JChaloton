@@ -1,6 +1,6 @@
 ## Hi, I'm Jirapong Chalotonpised
 
-Currently pursuing a Master's degree in Automation Technology, focusing on computer vision and sign language recognition.
+My main focus are on computer vision, sign language recognition, and large language model.
 
 ### Featured Project
 **[TSL-ONE: Thai Sign Language Recognition Dataset](https://tsl-one.github.io/)**  
